@@ -1,4 +1,4 @@
-// create web server
+// Create web server
 // run this file with node comments.js
 // visit http://localhost:3000/ in your browser
 // enter a comment and click submit
