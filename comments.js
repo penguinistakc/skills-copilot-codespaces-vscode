@@ -34,6 +34,7 @@ app.post('/', function(req, res) {
 });
 
 // start server
+// do something else interesting here
 app.listen(3000, function() {
   console.log('Server listening on http://localhost:3000/');
 });
